@@ -1,7 +1,7 @@
 # Music Event Line Bot - Tune in Live
 
 ## Description
-The Music Event Linebot is a group project I led in an online course, designed to help users find music events efficiently. The bot allows users to search for concerts based on time, location, or keywords directly through the LINE app. By integrating multiple technologies, we provided a convenient and interactive experience for music enthusiasts.
+The Music Event Linebot is a group project I led in an online course in 2024, designed to help users find music events efficiently. The bot allows users to search for concerts based on time, location, or keywords directly through the LINE app. By integrating multiple technologies, we provided a convenient and interactive experience for music enthusiasts.
 
 > For the key tasks that I covered, please refer to files with (*).
 
@@ -57,5 +57,4 @@ Did research about tools, including Docker and Heroku, eventually utilized Flask
 <img src="https://lh7-us.googleusercontent.com/slidesz/AGV_vUf_Xa-cUIHQ9v2uaGKApSdmlZafuGfiZ615hBgP4LNF4UThfGAAbg4GBuUtTGoSRvT-aV5fBgJ2iRiGZAXh0hVA-ZZtCaefk8S6TWaoBEg09wNXBTeM4N_w_O6aJMTx-XkJ5YxpeXL4oW3oEUB0k-iIAPzLbRzX=s2048?key=IBW-Noggu96GUSOhL3Odow" alt="image" width="200" height="auto"> <img src="https://lh7-us.googleusercontent.com/slidesz/AGV_vUejgbmMSS7za0U75uJfa1GNaUXKSbNNaDpSzssk5cUu4ZiMDhknkj8u-iI5YqlDXxg1_O5-OS2wyw-7COVvpgOq_SI3G9mJOiETRlsBEDHj4J0FJohaObw0AzfupulITL3CC4cd8Q5etlPRhFYYVyIUc7_Pi_4=s2048?key=IBW-Noggu96GUSOhL3Odow" alt="image" width="200" height="auto"> <img src="https://lh7-us.googleusercontent.com/slidesz/AGV_vUdAlIDtoluyJWI23crezb8_qzRCEWQgKkF5NoVgyfB7QePMy8hwObSGCtLlHUJrh3knIlRArO42LE5fPmDyypwh6MhJcRWrZVJlIoOoJc8_CU7rRKRGXxZ19cQ_-YYxNQe4upbxdH4FM4bJw6BTIvHEzjNhqsVQ=s2048?key=IBW-Noggu96GUSOhL3Odow" alt="image" width="200" height="auto">
 
 - For complete presentation, please see [here](https://ccclub-staging.s3.amazonaws.com/static/projects/slides/2024Spring/Tune_in_Live_-_%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E6%B4%BB%E5%8B%95_LineBot.pdf).
-- Try it now!
-<img src="https://lh7-us.googleusercontent.com/slidesz/AGV_vUfXpFRQmkD1o442UFVG-08f0ZibByV1K28tmkeasSxjQidAiucv7IA-EK3Qx2ED8dO6SvPWqw02vUvn3WU4GlkPw4E0aioHUHNF4x7QXNilrP2Ic-SkKdKD4ZzAab3up05CV8wSPBFl1T4r2dYlZpFaHP5CQl97=s2048?key=j9dtjQpqF34TSynTEWTP0Q" alt="image" width="150" height="auto">
+
